@@ -43,6 +43,7 @@
 
 ---
 
+<img align="left" alt="tech2bro's Github Stats" src="https://github-readme-stats.gauravmahendru.vercel.app/api?username=tech2bro&show_icons=true&hide_border=true" />
 
 
 [website]: https://goldenstick.cf
