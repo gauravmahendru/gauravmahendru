@@ -15,7 +15,7 @@
 [<img align="left" alt="tech2bro | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="tech2bro | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
-
+<br />
 
 ### Spotify Playing 🎧
 [<img src="https://novatorem.gauravmahendru.vercel.app/api/spotify-playing" alt="tech2bro Spotify Playing" width="350" />](https://open.spotify.com/user/12168669293)
