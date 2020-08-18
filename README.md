@@ -39,7 +39,7 @@
 ### 📕 Latest Medium Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [List locations and Deploy it on Apple Maps](https://medium.com/@gauravmahendru/how-to-display-a-list-of-locations-and-plot-it-on-the-apple-maps-aaf0c0d074ea)
-- [Use the Camera and Photo Library and Save it the local storage](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
+- [Use the Camera and Photo Library and Save it the local storage]()
 - [How to become Productive in real](https://medium.com/the-innovation/increase-your-productivity-with-these-real-things-f776c1cafccd)
 <!-- BLOG-POST-LIST:END -->
 
