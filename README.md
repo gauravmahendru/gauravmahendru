@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a iOS Mobile App.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators for something unique.
-- 🥅 2020 Goals: Contribute more time for my projects and up scale myself.
+- 🥅 2022 Goals: Contribute more time for my projects and up scale myself.
 - ⚡ Fun fact: I love to shot pictures and enjoy hip hop music.
 
 ### Connect with me:
